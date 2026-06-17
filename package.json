@@ -1,0 +1,15 @@
+{
+  "name": "golge-istasyonu",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Düşük sistem hedefli, web tabanlı, oda kodlu sosyal çıkarım oyunu prototipi.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "stability-test": "node stability-test.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "UNLICENSED"
+}
